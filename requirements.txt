@@ -1,0 +1,10 @@
+# Ağ Güvenliği ve Performans Analitiği Projesi Gereksinimleri
+# -------------------------------------------------------------
+# Temel modüller tamamen Python 3.10+ Standart Kütüphaneleri ile geliştirilmiştir.
+# Herhangi bir harici paket yüklemeden doğrudan çalıştırılabilir:
+#   - http.client, urllib, socket (Ağ iletişimi ve benchmarking)
+#   - concurrent.futures, threading (Çoklu iş parçacığı ve eşzamanlılık)
+#   - statistics, collections, dataclasses, json, argparse (Veri analitiği)
+
+# Opsiyonel: Test sonuçlarını görselleştirmek ve grafik çizmek isterseniz:
+# matplotlib>=3.8.0
